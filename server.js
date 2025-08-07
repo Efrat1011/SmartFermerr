@@ -43,7 +43,7 @@ app.use('/api/gemini', geminiRoutes);
 
 // Тексеру үшін
 app.get('/', (req, res) => {
-  res.send('🚀 SmartFermer сервері жұмыс істеп тұр!')
+  res.send('🚀 SmartFarmer сервері жұмыс істеп тұр!')
 })
 
 
